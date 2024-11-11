@@ -12,8 +12,8 @@
 - Advanced server setups and management.
 - Fiverr freelancer project
 
-🎮 **I also like**: videogames and simulators
-🏍️ **Fun fact**: i'm a rider
+🎮 **I also like**: videogames and simulators  
+🏍️ **Fun fact**: i'm a rider  
 
 ## 🔧 Technical Skills  
 - **Programming Languages**:  
