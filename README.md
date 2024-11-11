@@ -31,7 +31,9 @@
 [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)  [![IntelliJ IDEA](https://custom-icon-badges.demolab.com/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)  [![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ## 📊 GitHub Stats  
-![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=0tia0&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0tia0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=0tia0&show_icons=true&theme=radical&cachebust=1)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0tia0&layout=compact&theme=radical&cachebust=1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 How to Reach Me  
 📧 **Email**: [mattia.marelli.work@gmail.com](mailto:mattia.marelli.work@gmail.com)  
