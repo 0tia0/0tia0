@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Mattia!  
 
-![followers](https://custom-icon-badges.demolab.com/github/followers/0tia0?color=%23307CE8&label=FOLLOWERS&logoColor=%23296DCE&style=for-the-badge&logo=people&logoColor=white&labelColor=2366C8)  ![stars](https://custom-icon-badges.demolab.com/github/stars/0tia0?color=2FCB4A&label=STARS&logoColor=%23296DCE&style=for-the-badge&logo=star&logoColor=white&labelColor=26BB40)
+![followers](https://img.shields.io/github/followers/0tia0?style=for-the-badge&logo=github&label=Followers)
+![stars](https://img.shields.io/github/stars/0tia0?style=for-the-badge&logo=github&label=Stars)
+
 
 ## 🚀 About Me  
 
