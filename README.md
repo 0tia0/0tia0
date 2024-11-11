@@ -13,6 +13,7 @@
 - Fiverr freelancer project
 
 🎮 **I also like**: videogames and simulators
+🏍️ **Fun fact**: i'm a rider
 
 ## 🔧 Technical Skills  
 - **Programming Languages**:  
