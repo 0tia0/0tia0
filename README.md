@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats  
 
-![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=0tia0&show_icons=true&theme=transparent&cache_seconds=300) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0tia0&layout=compact&theme=transparent&cache_seconds=300)](https://github.com/0tia0/github-readme-stats)
+![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=0tia0&show_icons=true&theme=transparent&cache_seconds=300) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0tia0&layout=compact&theme=transparent&cache_seconds=300)
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=0tia0&theme=darkhub)](https://github.com/0tia0)
