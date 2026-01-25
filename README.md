@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-🎓 **Student at**: [I.T.I.S. Magistri Cumacini](https://www.magistricumacini.edu.it/)  
+🎓 **Student**
 💻 **Aspirations**: To become a skilled **programmer**, **system administrator**, and **cybersecurity expert**.  
 
 🛠️ **Currently working on**:  
