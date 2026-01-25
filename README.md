@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-🎓 **Student**
+🎓 **Student**                                                                          
 💻 **Aspirations**: To become a skilled **programmer**, **system administrator**, and **cybersecurity expert**.  
 
 🛠️ **Currently working on**:  
